@@ -26,6 +26,50 @@ NRC: 10149
 
 ## 3. Explicacion y Resolucion de ejercicios o Problemas
 
+
+31. En la figura 17-67, ¿cuál es el ángulo de fase entre I2 y el voltaje de fuente?
+
+
+33. Determine la corriente a través de cada componente mostrado en la figura 17-68. Encuentre el voltaje
+entre las terminales de cada componente.
+
+
+35. Si el valor de C es de 0.22 mF, ¿cuál es la corriente a través de un resistor de 100 Æ conectado de a a b
+en la figura 17-69?
+
+
+37. Determine las frecuencias resonantes y el voltaje de salida en cada frecuencia mostrada en la figura 17-70.
+
+
+39. En condición de resonancia, XL  2 kÆ y RW  25 Æ en un circuito RLC en paralelo. La frecuencia resonante
+es de 5 kHz. Determine el ancho de banda
+
+
+41. En cierto circuito RLC, la potencia en condición de resonancia es de 2.75 W. ¿Cuál es la potencia a la
+frecuencia crítica baja?
+
+
+43. Cierto circuito resonante en paralelo tiene un factor Q de 50 y un AB de 400 Hz. Si Q se duplica, ¿cuál
+es el ancho de banda a la misma fr?
+
+
+1. En cierto filtro pasabajas, XC  500 Æ y R  2.2 kÆ. ¿Cuál es el voltaje de salida (Vsal) cuando la entrada
+es de 10 V rms?
+
+
+3. Determine el voltaje de salida (Vsal) de cada filtro mostrado en la figura 18-38 a la frecuencia especificada
+cuando Vent  10 V.
+
+
+5. Para el filtro de la figura 18-39, calcule el valor de C requerido para cada una de las siguientes frecuencias
+críticas:
+
+(a) 60 Hz (b) 500 Hz (c) 1 kHz (d) 5 kHz
+
+
+7. Trace una curva de Bode para cada una de las partes del problema 5.
+
+
 **9. El voltaje de entrada a un filtro RC pasabajas es de 8 V rms. Determine el voltaje de salida a los siguientes niveles de dB: (a)-1 dB (b) -3 dB  (c) -6 dB (d) -20 dB**
 
 ![9](https://user-images.githubusercontent.com/93224166/155634541-0088a967-3974-4f10-92cb-0e6b67c2cf8d.png)

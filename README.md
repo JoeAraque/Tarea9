@@ -29,17 +29,21 @@ NRC: 10149
 
 31. En la figura 17-67, ¿cuál es el ángulo de fase entre I2 y el voltaje de fuente?
 
+![31-17](https://user-images.githubusercontent.com/93951775/155727946-974239a8-c03b-443a-aace-b668827123ac.JPG)
 
 33. Determine la corriente a través de cada componente mostrado en la figura 17-68. Encuentre el voltaje
 entre las terminales de cada componente.
 
+![33-17](https://user-images.githubusercontent.com/93951775/155727958-2796dbab-3bfb-448b-8362-0f6ae05be6f4.JPG)
 
 35. Si el valor de C es de 0.22 mF, ¿cuál es la corriente a través de un resistor de 100 Æ conectado de a a b
 en la figura 17-69?
 
+![35-17](https://user-images.githubusercontent.com/93951775/155727964-642901e8-9cfa-43ec-a688-ed9d83df4254.JPG)
 
 37. Determine las frecuencias resonantes y el voltaje de salida en cada frecuencia mostrada en la figura 17-70.
 
+![37-17](https://user-images.githubusercontent.com/93951775/155727968-51cd5816-cf2a-4933-9111-ee454d452850.JPG)
 
 39. En condición de resonancia, XL  2 kÆ y RW  25 Æ en un circuito RLC en paralelo. La frecuencia resonante
 es de 5 kHz. Determine el ancho de banda
@@ -60,12 +64,14 @@ es de 10 V rms?
 3. Determine el voltaje de salida (Vsal) de cada filtro mostrado en la figura 18-38 a la frecuencia especificada
 cuando Vent  10 V.
 
+![3-18](https://user-images.githubusercontent.com/93951775/155727980-a4c8c932-2285-440c-b3e5-65be19db11bf.JPG)
 
 5. Para el filtro de la figura 18-39, calcule el valor de C requerido para cada una de las siguientes frecuencias
 críticas:
 
 (a) 60 Hz (b) 500 Hz (c) 1 kHz (d) 5 kHz
 
+![5-18](https://user-images.githubusercontent.com/93951775/155727983-d65feca9-4041-40ab-bbe0-8bb0c2184112.JPG)
 
 7. Trace una curva de Bode para cada una de las partes del problema 5.
 
